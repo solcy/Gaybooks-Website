@@ -1,0 +1,12 @@
+Working with Bobbi Braggs (bnb32)
+
+First Service: Book Reviewer (Admin) Application
+
+	application.php has two different functions
+	
+	Signed in as regular user: (username: test	password: test)
+		User sees an application and can fill it out to be sent in for reviews.
+
+	
+	Signed in as admin: (username: admin		password: admin)
+		Admin sees first submitted application and can go through all submitted applications via the previous/next links.
